@@ -1,0 +1,67 @@
+body{
+background-color:#96DCF;
+}
+
+.game-bg {
+  position: relative;
+  top: 0;
+  left: 0px;
+}
+.airplane {
+  position: absolute;
+  top: 330px;
+  left: 335px;
+}
+.boat {
+  position: absolute;
+  top: -1px;
+  right: 73px;
+}
+.bus {
+  position: absolute;
+  top: 350px;
+  left:800px;
+}
+.car {
+  position: absolute;
+  top:440px;
+  right:90px;
+}
+.subway {
+  position: absolute;
+  top:440px;
+  left:340px;
+}
+.taxi {
+  position: absolute;
+  top: 440px;
+  left:770px;
+}
+.sam {
+  position:absolute;
+  top: 340px;
+  left: 5px;
+  filter:contrast(130%);
+}
+.opa:hover {
+  opacity: .9;
+}
+h2{
+  color: #132062;
+}
+h4{
+  color: #132062;
+}
+p{
+  color: #132062;
+}
+
+
+button {
+      background-color: Transparent;
+      background-repeat:no-repeat;
+      border: none;
+      cursor:pointer;
+      overflow: hidden;
+      outline: none;
+    }
